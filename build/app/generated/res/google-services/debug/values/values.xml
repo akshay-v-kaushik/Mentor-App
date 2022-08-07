@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">955126995305-grjp53um02b2n7aivo5qi81us4i8r4dm.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">955126995305</string>
+    <string name="google_api_key" translatable="false">AIzaSyBCiFWCXhzJ5dJT7B5CwXvohwKS6K3q9wg</string>
+    <string name="google_app_id" translatable="false">1:955126995305:android:d7ba0c3382558d85d745f8</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBCiFWCXhzJ5dJT7B5CwXvohwKS6K3q9wg</string>
+    <string name="google_storage_bucket" translatable="false">margdarshak-e0738.appspot.com</string>
+    <string name="project_id" translatable="false">margdarshak-e0738</string>
+</resources>

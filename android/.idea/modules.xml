@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android.iml" filepath="$PROJECT_DIR$/.idea/modules/android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1691851315/android.firebase_auth.iml" filepath="$PROJECT_DIR$/.idea/modules/1691851315/android.firebase_auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/144923332/android.firebase_core.iml" filepath="$PROJECT_DIR$/.idea/modules/144923332/android.firebase_core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1317225575/android.firebase_database.iml" filepath="$PROJECT_DIR$/.idea/modules/-1317225575/android.firebase_database.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-505429365/android.fluttertoast.iml" filepath="$PROJECT_DIR$/.idea/modules/-505429365/android.fluttertoast.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/123130610/android.shared_preferences_android.iml" filepath="$PROJECT_DIR$/.idea/modules/123130610/android.shared_preferences_android.iml" />
+    </modules>
+  </component>
+</project>

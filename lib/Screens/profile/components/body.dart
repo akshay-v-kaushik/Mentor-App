@@ -10,6 +10,7 @@ import 'package:project/constants.dart';
 import '../../../components/SnackBar.dart';
 import '../../../components/firebase_verification.dart';
 import '../../../size_config.dart';
+import '../../FAQ/faq_screen.dart';
 import '../../edit_profile/edit_profile_screen.dart';
 
 class Body extends StatelessWidget {
@@ -32,7 +33,9 @@ class Body extends StatelessWidget {
         ProfileMenu(
           text: "Help Center",
           icon: "assets/icons/Question mark.svg",
-          press: () {},
+          press: () {
+            Navigator.pushNamed(context, FaqScreen.routeName);
+          },
         ),
         SizedBox(height: 10),
         ProfileMenu(

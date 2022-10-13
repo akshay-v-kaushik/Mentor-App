@@ -13,6 +13,7 @@ import 'package:provider/provider.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'Screens/AdditionalForms/ParentForm/parent_screen.dart';
 import 'Screens/AdditionalForms/StudentForm/components/student_personal_form.dart';
+import 'Screens/FAQ/faq_screen.dart';
 import 'Screens/home/home_screen.dart';
 import 'Screens/sign_up/sign_up_screen.dart';
 import 'Screens/splash/splash_screen.dart';
@@ -70,7 +71,7 @@ class MyApp extends StatelessWidget {
             ? SplashScreen.routeName
             : (rememberLogin ? HomeScreen.routeName : SignInScreen.routeName),
         routes: routes,
-        // home: const ProfileScreen(),
+        // home: const FaqScreen(),
       ),
     );
   }

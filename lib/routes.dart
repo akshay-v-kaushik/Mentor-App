@@ -2,6 +2,7 @@ import 'package:flutter/widgets.dart';
 import 'package:project/Screens/edit_profile/edit_profile_screen.dart';
 import 'package:project/Screens/home/home_screen.dart';
 import 'Screens/AdditionalForms/FacultyForm/faculty_screen.dart';
+import 'Screens/FAQ/faq_screen.dart';
 import 'Screens/course/course_screen.dart';
 import 'Screens/forgot_password/forget_password_screen.dart';
 import 'Screens/login_success/login_success_screen.dart';
@@ -21,6 +22,7 @@ final Map<String, WidgetBuilder> routes = {
   ProfileScreen.routeName: (context) => const ProfileScreen(),
   HomeScreen.routeName: (context) => const HomeScreen(),
   CourseScreen.routeName: (context) => const CourseScreen(),
-  EditProfileScreen.routeName: (context)=>const EditProfileScreen(),
+  EditProfileScreen.routeName: (context) => const EditProfileScreen(),
+  FaqScreen.routeName: (context) => const FaqScreen()
 };  // FacultyScreen.routeName: (context) => const FacultyScreen(),
 
